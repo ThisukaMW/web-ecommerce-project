@@ -2,7 +2,7 @@
 
 
 
- ## Technology Which we Used
+ ## Technology Which We Used
    ***Backend***
    
  - Nodejs
